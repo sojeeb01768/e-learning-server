@@ -1,0 +1,87 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "rating": {
+      "number": 4.5
+    },
+    "total_view": 4088,
+    "title": "Learning HTML basics — an important foundation for building and editing web pages",
+    "tutor": {
+      "name": "SojeeB Khan"
+    },
+    "image_url": "https://i.ytimg.com/vi/Qi8sqy-TYBo/maxresdefault.jpg",
+    "details": "all websites use HTML — even this one. It’s a fundamental part of every web developer’s toolkit. HTML provides the content that gives web pages structure, by using elements and tags, you can add text, images, videos, forms, and more. Learning HTML basics is an important first step in your web development journey and an essential skill for front- and back-end developers.This two-part series provides an in-depth look at the fundamentals of coding in HTML and CSS. We start by exploring HTML Development using some of the most commonly used tags and attributes. Students will learn the composition of an HTML file, and some of the essential components. Students will work with HTML Spacing, Text Formatting, Lists, Images, Embedding Videos, Link Creation, Tables, and Forms. We also include a hands-on project, that helps solidify the concepts we explore in the course.After the HTML Section, students will dive into CSS to fully customize the look of their web pages. We provide an extensive overview of CSS attributes, components, and positioning"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "category_id": "02",
+    "rating": {
+      "number": 4.6
+    },
+    "total_view": 3554,
+    "title": "A Course Specialization is a series of courses that helps you master a skill.",
+    "tutor": {
+      "name": "Tony Stark"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1200px-The_C_Programming_Language_logo.svg.png",
+    "details": "This is a to learn C programming which is created by keeping you, the beginners in mind. You will learn to code in an easy, simple, and effective way using a C programming language which is in my opinion best language to learn coding and programming.This online course is for total beginners that don’t necessarily have programmed anything before. The tutorial contains a lot of challenges and demonstrations to really understand how to program in real-world situations. One good point is that the instructor also pays attention to the students to resolve some troubles they may have.This is an ideal course for anyone who wants to learn C Programming online and start their programming career. The course is divided into 8 sections and will teach you C fundamentals and provide you a launchpad to learn advanced C programming concepts on your own."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+    "category_id": "03",
+    "rating": {
+      "number": 4.7
+    },
+    "total_view": 3261,
+    "title": "Learn the JavaScript fundamentals you’ll need for front-end or back-end development.",
+    "tutor": {
+      "name": "SojeeB Khan"
+    },
+    "image_url": "https://i.pinimg.com/originals/ce/54/aa/ce54aaec43be93e3d78bc1a05324f442.jpg",
+    "details": "The JavaScript programming language is a fundamental building block of the internet, and is an essential tool to have in your web development toolkit. This online JavaScript training course can help you use JavaScript in conjunction with HTML and CSS to add interactive, dynamic elements to your web pages.Designed for beginners, no prior experience or special skills are required to take this course. You will learn the basics of JavaScript for front end web development through hands-on application and examples every step of the way. By the end of the course, you will have built a fully functional flashcard app to demonstrate your practical knowledge."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+    "category_id": "04",
+    "rating": {
+      "number": 4.6,
+      "badge": "Excellent"
+    },
+    "total_view": 7032,
+    "title": "Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data.",
+    "tutor": {
+      "name": "Jhanker Mahbub"
+    },
+    "image_url": "https://www.etudemy.com/wp-content/uploads/2022/01/Computer-Courses-in-Perinthalmanna-python-Copy.jpg",
+    "details": "The course doesn’t immediately start with programming, but instead starts with what you’ll be programming on: a computer.What are the basic components of a computer? What is a program, and how does a computer understand it? Why is it so easy for a computer to not do what you tell it to do? These are the questions that you’ll be able to answer by the end of the first part of the course.Afterwards, you’ll be shown how to install and run Python on your machine and how to choose a suitable code editor. And then, you’ll get to write code! You’ll be taught the vocabulary of Python, its unique “grammar”, as well as higher-level programming concepts.You’ll know how to write variables and expressions to store and compute values, which can be of different data types. You’ll know how and why you can use conditional statements to specify branching conditions in your code. You’ll be taught about functions and arguments, and how to leverage them for code reuse. Last but not least, you’ll understand what loops and iterations do.By the end of the course, you’ll know how to write a program that accepts user input, computes a result, and returns an output to the user. A complete experience indeed!"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+    "category_id": "05",
+    "rating": {
+      "number": 4.2
+    },
+    "total_view": 4253,
+    "title": "Learn advanced topics in Java and improve your developer skills!",
+    "tutor": {
+      "name": "Bill Gates"
+    },
+    "image_url": "https://seldomindia.com/wp-content/uploads/2021/02/Advance-Java-Training.jpg",
+    "details": "Java is one of the most popular programming languages out there. Released in 1995 and still widely used today, Java has many applications, including software development, mobile applications, and large systems development. Are you a lover of Java looking to advance your skills in the language? This course may be right up your alley! In this course, we will dive into some advanced Java skills that will allow you to take your programming skills to the next level. We’ll learn new techniques, frameworks, and APIs that will give you the flexibility to create clean, effective code and make you a truly advanced Java programmer."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+    "category_id": "06",
+    "rating": {
+      "number": 4.5
+    },
+    "total_view": 4781,
+    "title": "Learn to write modern C++: expressive, readable, fast, and secure code that’s just more fun than the old way.",
+    "tutor": {
+      "name": "Mark Zuku"
+    },
+    "image_url": "https://www.techforest.in/assets/img/c-training.webp",
+    "details": "Once you know the basic of C++ syntax and what the Standard Library offers you, it’s time to establish whether you’re writing good code or not. Modern C++ is expressive, readable, fast, and secure. In most cases the faster thing to do is also the easier thing to do and the safer thing to do – no tradeoffs!In this course, C++ Advanced Topics, you’ll draw on your C++ Fundamentals knowledge to explore a number of ways to ensure your applications are implemented in Modern C++, not C-With-Classes or other old-style idioms. You’ll take advantage of the Standard Library and write code that is future proof and safe."
+  }
+]
