@@ -2,6 +2,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "category_id": "01",
+    "name": "HTML CSS Course",
     "rating": {
       "number": 4.5
     },
@@ -17,6 +18,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
     "category_id": "02",
+    "name": "Full C Programming Course",
     "rating": {
       "number": 4.6
     },
@@ -32,6 +34,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
     "category_id": "03",
+    "name": " JavaScript Course",
     "rating": {
       "number": 4.7
     },
@@ -47,6 +50,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
     "category_id": "04",
+    "name": "Python Course",
     "rating": {
       "number": 4.6,
       "badge": "Excellent"
@@ -63,6 +67,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
     "category_id": "05",
+    "name": "Advanced Java Course",
     "rating": {
       "number": 4.2
     },
@@ -78,6 +83,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
     "category_id": "06",
+    "name": "Avdanced C++ Course",
     "rating": {
       "number": 4.5
     },
