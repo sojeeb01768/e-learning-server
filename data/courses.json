@@ -6,6 +6,7 @@
       "number": 4.5
     },
     "total_view": 4088,
+    "price": 12000,
     "title": "Learning HTML basics — an important foundation for building and editing web pages",
     "tutor": {
       "name": "SojeeB Khan"
@@ -20,11 +21,12 @@
       "number": 4.6
     },
     "total_view": 3554,
+    "price": 13000,
     "title": "A Course Specialization is a series of courses that helps you master a skill.",
     "tutor": {
       "name": "Tony Stark"
     },
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1200px-The_C_Programming_Language_logo.svg.png",
+    "image_url": "https://miro.medium.com/max/750/0*tc5hGik294F0OmbC",
     "details": "This is a to learn C programming which is created by keeping you, the beginners in mind. You will learn to code in an easy, simple, and effective way using a C programming language which is in my opinion best language to learn coding and programming.This online course is for total beginners that don’t necessarily have programmed anything before. The tutorial contains a lot of challenges and demonstrations to really understand how to program in real-world situations. One good point is that the instructor also pays attention to the students to resolve some troubles they may have.This is an ideal course for anyone who wants to learn C Programming online and start their programming career. The course is divided into 8 sections and will teach you C fundamentals and provide you a launchpad to learn advanced C programming concepts on your own."
   },
   {
@@ -34,6 +36,7 @@
       "number": 4.7
     },
     "total_view": 3261,
+    "price": 15000,
     "title": "Learn the JavaScript fundamentals you’ll need for front-end or back-end development.",
     "tutor": {
       "name": "SojeeB Khan"
@@ -49,11 +52,12 @@
       "badge": "Excellent"
     },
     "total_view": 7032,
+    "price": 18000,
     "title": "Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data.",
     "tutor": {
-      "name": "Jhanker Mahbub"
+      "name": "Jhankar Mahbub"
     },
-    "image_url": "https://www.etudemy.com/wp-content/uploads/2022/01/Computer-Courses-in-Perinthalmanna-python-Copy.jpg",
+    "image_url": "https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg",
     "details": "The course doesn’t immediately start with programming, but instead starts with what you’ll be programming on: a computer.What are the basic components of a computer? What is a program, and how does a computer understand it? Why is it so easy for a computer to not do what you tell it to do? These are the questions that you’ll be able to answer by the end of the first part of the course.Afterwards, you’ll be shown how to install and run Python on your machine and how to choose a suitable code editor. And then, you’ll get to write code! You’ll be taught the vocabulary of Python, its unique “grammar”, as well as higher-level programming concepts.You’ll know how to write variables and expressions to store and compute values, which can be of different data types. You’ll know how and why you can use conditional statements to specify branching conditions in your code. You’ll be taught about functions and arguments, and how to leverage them for code reuse. Last but not least, you’ll understand what loops and iterations do.By the end of the course, you’ll know how to write a program that accepts user input, computes a result, and returns an output to the user. A complete experience indeed!"
   },
   {
@@ -63,6 +67,7 @@
       "number": 4.2
     },
     "total_view": 4253,
+    "price": 20000,
     "title": "Learn advanced topics in Java and improve your developer skills!",
     "tutor": {
       "name": "Bill Gates"
@@ -77,6 +82,7 @@
       "number": 4.5
     },
     "total_view": 4781,
+    "price": 25000,
     "title": "Learn to write modern C++: expressive, readable, fast, and secure code that’s just more fun than the old way.",
     "tutor": {
       "name": "Mark Zuku"
