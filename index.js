@@ -17,23 +17,23 @@ app.get('/categories', (req, res) => {
   res.send(categories);
 })
 
-app.get('/category/:id', (req,res)=>{
+app.get('/category/:id', (req, res) => {
   const id = req.params.id;
-  if(id==='07'){
+  if (id === '07') {
     res.send(courses)
   }
-  else{
+  else {
 
-    const categoryCourse = courses.filter(course=> course.category_id=== id);
+    const categoryCourse = courses.filter(course => course.category_id === id);
     res.send(categoryCourse);
   }
 })
 
-app.get('/courses', (req, res)=>{
+app.get('/courses', (req, res) => {
   res.send(courses)
 })
 
-app.get('/courses/:id', (req, res)=>{
+app.get('/courses/:id', (req, res) => {
   const id = req.params.id;
   console.log(id);
   const selectedCourse = courses.find(course => course._id === id);
